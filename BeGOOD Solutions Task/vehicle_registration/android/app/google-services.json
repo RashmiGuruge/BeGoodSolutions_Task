@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "33217834675",
+    "project_id": "vehicleregistration-b176d",
+    "storage_bucket": "vehicleregistration-b176d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:33217834675:android:50612dd5bd10f6a47c4ac6",
+        "android_client_info": {
+          "package_name": "com.example.vehicle_registration"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "33217834675-q4kq3ri0tptkmphf9fh1p8sq654loqpm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBERU9F1EHDiQ0WPIfEM0iD_jiE4FShy3U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "33217834675-q4kq3ri0tptkmphf9fh1p8sq654loqpm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
